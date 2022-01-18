@@ -1,6 +1,7 @@
 ---
 layout: slide
 title: "Welcome to our slide deck!"
+"Added by Venugopal Arra"
 ---
 
 Caption here
